@@ -1,10 +1,9 @@
-#include "main.h"
-
 /**
- * main - Entry _putchar
- *
- * Return: Aways 0. (success)
+ * main - print _putchar
+ * is written by bwave
+ * Return: 0
  */
+
 int main(void)
 {
 	_putchar('_');
@@ -16,7 +15,5 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-
 	return (0);
-
 }
